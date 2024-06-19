@@ -1,0 +1,24 @@
+.red {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.green {
+  border: 2px dotted green;
+}
+
+.v1 {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.galya {
+  color: fuchsia;
+  font-size: 20px;
+}
